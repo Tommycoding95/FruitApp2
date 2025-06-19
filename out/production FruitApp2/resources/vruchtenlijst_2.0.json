@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Appel",
+    "countryOfOrigin": "Netherlands",
+    "imagePath": "images/apple.png",
+    "price": 0.49,
+    "stock": 100,
+    "isCitrus": false,
+    "aanbieding": true,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Sinaasappel",
+    "countryOfOrigin": "Spain",
+    "imagePath": "images/orange.png",
+    "price": 0.59,
+    "stock": 75,
+    "isCitrus": true,
+    "aanbieding": false,
+    "categorie": "citrus"
+  },
+  {
+    "name": "Banaan",
+    "countryOfOrigin": "Colombia",
+    "imagePath": "images/banana.png",
+    "price": 0.39,
+    "stock": 120,
+    "isCitrus": false,
+    "aanbieding": false,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Pompelmoes",
+    "countryOfOrigin": "USA",
+    "imagePath": "images/grapefruit.png",
+    "price": 0.79,
+    "stock": 50,
+    "isCitrus": true,
+    "aanbieding": false,
+    "categorie": "citrus"
+  },
+  {
+    "name": "Citroen",
+    "countryOfOrigin": "Italy",
+    "imagePath": "images/lemon.png",
+    "price": 0.69,
+    "stock": 60,
+    "isCitrus": true,
+    "aanbieding": false,
+    "categorie": "citrus"
+  },
+  {
+    "name": "Kiwi",
+    "countryOfOrigin": "New Zealand",
+    "imagePath": "images/kiwi.png",
+    "price": 0.89,
+    "stock": 45,
+    "isCitrus": false,
+    "aanbieding": true,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Mango",
+    "countryOfOrigin": "India",
+    "imagePath": "images/mango.png",
+    "price": 1.49,
+    "stock": 30,
+    "isCitrus": false,
+    "aanbieding": false,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Papaja",
+    "countryOfOrigin": "Brazil",
+    "imagePath": "images/papaya.png",
+    "price": 1.79,
+    "stock": 25,
+    "isCitrus": false,
+    "aanbieding": true,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Ananas",
+    "countryOfOrigin": "Costa Rica",
+    "imagePath": "images/pineapple.png",
+    "price": 2.49,
+    "stock": 20,
+    "isCitrus": false,
+    "aanbieding": false,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Blauwe bes",
+    "countryOfOrigin": "Canada",
+    "imagePath": "images/blueberry.png",
+    "price": 1.99,
+    "stock": 40,
+    "isCitrus": false,
+    "aanbieding": true,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Aardbei",
+    "countryOfOrigin": "Netherlands",
+    "imagePath": "images/strawberry.png",
+    "price": 1.69,
+    "stock": 70,
+    "isCitrus": false,
+    "aanbieding": false,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Framboos",
+    "countryOfOrigin": "Poland",
+    "imagePath": "images/raspberry.png",
+    "price": 2.29,
+    "stock": 30,
+    "isCitrus": false,
+    "aanbieding": false,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Peer",
+    "countryOfOrigin": "Belgium",
+    "imagePath": "images/pear.png",
+    "price": 0.55,
+    "stock": 90,
+    "isCitrus": false,
+    "aanbieding": false,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Perzik",
+    "countryOfOrigin": "France",
+    "imagePath": "images/peach.png",
+    "price": 0.99,
+    "stock": 60,
+    "isCitrus": false,
+    "aanbieding": false,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Kers",
+    "countryOfOrigin": "Germany",
+    "imagePath": "images/cherry.png",
+    "price": 2.19,
+    "stock": 35,
+    "isCitrus": false,
+    "aanbieding": false,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Vijg",
+    "countryOfOrigin": "Turkey",
+    "imagePath": "images/fig.png",
+    "price": 1.99,
+    "stock": 40,
+    "isCitrus": false,
+    "aanbieding": false,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Avocado",
+    "countryOfOrigin": "Mexico",
+    "imagePath": "images/avocado.png",
+    "price": 1.59,
+    "stock": 50,
+    "isCitrus": false,
+    "aanbieding": true,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Mandarijn",
+    "countryOfOrigin": "Morocco",
+    "imagePath": "images/mandarin.png",
+    "price": 0.49,
+    "stock": 85,
+    "isCitrus": true,
+    "aanbieding": false,
+    "categorie": "citrus"
+  },
+  {
+    "name": "Kokosnoot",
+    "countryOfOrigin": "Thailand",
+    "imagePath": "images/coconut.png",
+    "price": 1.29,
+    "stock": 0,
+    "isCitrus": false,
+    "aanbieding": false,
+    "categorie": "fruit"
+  },
+  {
+    "name": "Granaatappel",
+    "countryOfOrigin": "Iran",
+    "imagePath": "images/pomegranate.png",
+    "price": 2.39,
+    "stock": 25,
+    "isCitrus": false,
+    "aanbieding": false,
+    "categorie": "fruit"
+  }
+]
